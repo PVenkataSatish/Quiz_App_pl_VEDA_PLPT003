@@ -27,3 +27,9 @@ It allows users to **create quizzes**, **attempt them interactively**, and **sto
 
 ---
 
+## ▶️ How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/quiz-app-python.git
+   cd quiz-app-python
